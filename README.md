@@ -1,16 +1,17 @@
-# eventapp
+# Windmill Event App
+#### Link to GitHub Repo :https://github.com/eseosapku/eventapp
+## Project Description
+The Windmill Event App is a Flutter-based mobile application designed for posting and viewing events in Rwanda. This project aims to provide a platform for users to discover and share events within the region. Key features of the app include event posting, event viewing, user authentication, and Google Maps integration.
 
-A new Flutter project.
+### Features
+#### Event Posting
+Users can easily create and post events on the app, providing event details such as images, descriptions, dates, times, and locations using the Google Maps API.
 
-## Getting Started
+#### Event Viewing
+The app allows users to browse and discover events posted by others. Events can be filtered by date, location, and category.
 
-This project is a starting point for a Flutter application.
+#### User Authentication
+To access the app's features, users must log in or sign up. User profiles store their information and bookmarked events.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Google Maps Integration
+Accurate event location information is provided through integration with the Google Maps API.
